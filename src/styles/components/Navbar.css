@@ -1,4 +1,4 @@
-.Navbar {
+.navbar {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -12,7 +12,11 @@
 }
 
 .logo {
-  height: calc(var(--navbar-height) - 8px);
+  height: calc(var(--navbar-height) - 16px);
   border-radius: 50%;
   border: 2px solid var(--primary-text);
+  cursor: pointer;
+}
+.logo:active {
+  transform: scale(1.1);
 }

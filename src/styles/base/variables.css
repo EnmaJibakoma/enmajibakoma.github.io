@@ -1,10 +1,12 @@
 * {
-  --navbar-height: 40px;
+  --navbar-height: 60px;
 
   --primary-bg: rgb(88, 12, 12);
   --primary-text: rgb(236, 222, 222);
+  --primary-hover: rgb(245, 176, 176);
   --secondary-bg: rgb(236, 222, 222);
   --secondary-text: rgb(88, 12, 12);
+  --secondary-hover: rgb(168, 4, 4);
   --secondary-caption: rgb(87, 78, 78);
   --special-bg: yellow;
   --special-text: black;

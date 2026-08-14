@@ -1,9 +1,9 @@
-import '../styles/Navbar.css';
+import '../styles/components/Navbar.css';
 import logo from '../Assets/Components/Navbar/enmapfp.webp';
 
 const Navbar = () => {
     return (
-        <div className='Navbar'>
+        <div className='navbar'>
             <img className="logo" src={logo} alt='Dream Jibakoma'></img>
             Enma Tsutarja
         </div>

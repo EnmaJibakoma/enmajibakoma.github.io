@@ -1,4 +1,4 @@
-.Homepage {
+.homepage {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -15,8 +15,10 @@
   width: 30%;
   border-radius: 20px;
   box-shadow: 4px 4px 8px 2px hsl(from var(--secondary-text) h s l / 0.5);
-  padding: var(--pad-4);
+  padding: var(--pad-5);
   background-color: var(--secondary-text);
+  transition: transform 0.25s ease;
+  cursor: pointer;
 }
 p {
   font-size: var(--size-p1);
@@ -27,4 +29,53 @@ caption {
   font-size: var(--size-p3);
   font-style: italic;
   font-family: var(--font-3);
+}
+
+.divider {
+  width: 40%;
+  border-bottom: 2px dotted var(--secondary-text);
+  padding: var(--pad-4) 0;
+  margin-bottom: var(--pad-4);
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: var(--secondary-hover);
+}
+
+.socials {
+  font-size: var(--size-p1);
+}
+
+.characters {
+  font-size: var(--size-p1);
+  font-family: var(--font-3);
+}
+.characterlist {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--pad-4);
+}
+.characterlist:hover {
+  font-weight: bold;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.characterlist:hover .charpfp {
+  border: 2px solid var(--secondary-text);
+}
+.charpfp {
+  height: 50px;
+  border-radius: 4px;
+  padding: 2px;
+  border: 2px solid transparent;
 }

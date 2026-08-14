@@ -1,7 +1,7 @@
-import '../styles/Footbar.css'
+import '../styles/components/Footbar.css'
 const Footbar = () => {
     return (
-        <div className='Footbar'>
+        <div className='footbar'>
             2026 © Enma Tsutarja
         </div>
     )
