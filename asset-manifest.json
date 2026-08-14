@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/enma/static/css/main.f410ea31.css",
-    "main.js": "/enma/static/js/main.ab02f351.js",
+    "main.css": "/enma/static/css/main.886e7c0e.css",
+    "main.js": "/enma/static/js/main.bae2fd51.js",
     "static/js/453.ef5b6b83.chunk.js": "/enma/static/js/453.ef5b6b83.chunk.js",
     "static/media/enmadreamjibakoma.webp": "/enma/static/media/enmadreamjibakoma.563b6a1c3a65296cdbb0.webp",
+    "static/media/dream-jibakoma-pfp.webp": "/enma/static/media/dream-jibakoma-pfp.1d0affdd5dfe4213afc4.webp",
     "static/media/enmapfp.webp": "/enma/static/media/enmapfp.1d0affdd5dfe4213afc4.webp",
+    "static/media/princess-kimiko-pfp.webp": "/enma/static/media/princess-kimiko-pfp.1338300cfb69260f186b.webp",
     "index.html": "/enma/index.html",
-    "main.f410ea31.css.map": "/enma/static/css/main.f410ea31.css.map",
-    "main.ab02f351.js.map": "/enma/static/js/main.ab02f351.js.map",
+    "main.886e7c0e.css.map": "/enma/static/css/main.886e7c0e.css.map",
+    "main.bae2fd51.js.map": "/enma/static/js/main.bae2fd51.js.map",
     "453.ef5b6b83.chunk.js.map": "/enma/static/js/453.ef5b6b83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f410ea31.css",
-    "static/js/main.ab02f351.js"
+    "static/css/main.886e7c0e.css",
+    "static/js/main.bae2fd51.js"
   ]
 }
