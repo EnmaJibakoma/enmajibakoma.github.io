@@ -1,0 +1,30 @@
+.Homepage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--secondary-bg);
+  color: var(--secondary-text);
+  font-family: var(--font-1);
+  font-size: var(--size-h3);
+  gap: 6px;
+  padding: var(--pad-1);
+}
+
+.image1 {
+  width: 30%;
+  border-radius: 20px;
+  box-shadow: 4px 4px 8px 2px hsl(from var(--secondary-text) h s l / 0.5);
+  padding: var(--pad-4);
+  background-color: var(--secondary-text);
+}
+p {
+  font-size: var(--size-p1);
+  font-family: var(--font-2);
+}
+caption {
+  color: var(--secondary-caption);
+  font-size: var(--size-p3);
+  font-style: italic;
+  font-family: var(--font-3);
+}

@@ -1,0 +1,12 @@
+.Footbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: var(--navbar-height);
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  font-family: var(--font-2);
+  font-size: var(--size-p2);
+  gap: 6px;
+}

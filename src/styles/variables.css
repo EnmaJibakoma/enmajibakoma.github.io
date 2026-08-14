@@ -1,0 +1,35 @@
+* {
+  --navbar-height: 40px;
+
+  --primary-bg: rgb(88, 12, 12);
+  --primary-text: rgb(236, 222, 222);
+  --secondary-bg: rgb(236, 222, 222);
+  --secondary-text: rgb(88, 12, 12);
+  --secondary-caption: rgb(87, 78, 78);
+  --special-bg: yellow;
+  --special-text: black;
+
+  --font-1: "Times New Roman";
+  --font-2: "Arial";
+  --font-3: "Courier New";
+
+  --size-h1: 32pt;
+  --size-h2: 28pt;
+  --size-h3: 24pt;
+  --size-h4: 20pt;
+  --size-h5: 16pt;
+  --size-h6: 16pt;
+  --size-p1: 14pt;
+  --size-p2: 12pt;
+  --size-p3: 10pt;
+  --size-p4: 8pt;
+  --size-p5: 6pt;
+  --size-p6: 4pt;
+
+  --pad-1: 12pt;
+  --pad-2: 10pt;
+  --pad-3: 8pt;
+  --pad-4: 6pt;
+  --pad-5: 4pt;
+  --pad-6: 2pt;
+}
