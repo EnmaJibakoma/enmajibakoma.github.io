@@ -8,7 +8,7 @@ import pfp2 from '../Assets/Pages/Homepage/princess-kimiko-pfp.webp';
 const Homepage = () => {
     return (
         <div className="homepage">
-            Hi! I'm a cute girl Enma!
+            Hello I am Enma, i also want to thank my little sister Vesnea!
             <p>Here look at me!</p>
             <ImageFullscreen
                 className="image1"
