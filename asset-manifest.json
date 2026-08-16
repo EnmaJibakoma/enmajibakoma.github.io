@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.886e7c0e.css",
+    "main.css": "/static/css/main.860c28ff.css",
     "main.js": "/static/js/main.d59893c4.js",
     "static/js/453.aa843e05.chunk.js": "/static/js/453.aa843e05.chunk.js",
     "static/media/enmadreamjibakoma.webp": "/static/media/enmadreamjibakoma.563b6a1c3a65296cdbb0.webp",
@@ -8,12 +8,12 @@
     "static/media/enmapfp.webp": "/static/media/enmapfp.1d0affdd5dfe4213afc4.webp",
     "static/media/princess-kimiko-pfp.webp": "/static/media/princess-kimiko-pfp.1338300cfb69260f186b.webp",
     "index.html": "/index.html",
-    "main.886e7c0e.css.map": "/static/css/main.886e7c0e.css.map",
+    "main.860c28ff.css.map": "/static/css/main.860c28ff.css.map",
     "main.d59893c4.js.map": "/static/js/main.d59893c4.js.map",
     "453.aa843e05.chunk.js.map": "/static/js/453.aa843e05.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.886e7c0e.css",
+    "static/css/main.860c28ff.css",
     "static/js/main.d59893c4.js"
   ]
 }
